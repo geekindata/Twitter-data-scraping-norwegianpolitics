@@ -7,7 +7,10 @@
     <h2>Introduction</h2>
     <p>This project aims to understand the social connections among Norwegian politicians through their Twitter activity during the 2021 Norwegian election. Twitter is a popular platform for both the public and politicians to obtain political information and engage with each other. This research mainly focuses on the relationships, interactions and different patterns among Norwegian politicians’ social networks shown on Twitter.</p>
     <p>Through both quantitative and visual analysis, this research offers insights into the strategies that Norwegian politicians may adopt regarding the embeddedness of social media. The network consists of the 169 Stortinget representatives, elected in 2021. The project compares their two different types of social behaviour and strategies on Twitter, through exploring their Twitter networking pattern of 'following' and 'mentioning' relationships.</p>
-    <h2>Data Collection</h2>
+    <p> View full-text on ResearchGate: <a href="https://www.researchgate.net/publication/359596459_Twitter_Social_Strategies_among_Norwegian_Politicians#fullTextFileContent"> (Click Here for Full-Text)</a></p>
+<p> View Poster: <a href="https://www.researchgate.net/profile/Sai-Prudhvi-Neelakantam/publication/359596459/figure/fig1/AS:11431281121774812@1677075374078/Poster_W640.jpg "> (Click Here for Poster)</a></p>
+   
+<h2>Data Collection</h2>
 <p>We used Twitter API to scrape data from Twitter accounts of Norwegian politicians. The data collected includes their followers, mentions, and the accounts they follow. We then used this data to construct a network of social connections between these politicians.</p>
 
 <h2>Files</h2>
